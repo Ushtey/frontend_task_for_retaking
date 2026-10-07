@@ -1,0 +1,169 @@
+{
+  "checks": [
+    {
+      "width": 320,
+      "scrollWidth": 320,
+      "clientWidth": 320,
+      "horizontalOverflow": false,
+      "overflowing": [],
+      "imageFailures": [],
+      "headingCount": 1,
+      "missingAnchors": [],
+      "externalLinkCount": 5,
+      "videoSources": [
+        "http://127.0.0.1:4173/assets/video/rehearsal.mp4",
+        "http://127.0.0.1:4173/assets/video/light-run.mp4"
+      ]
+    },
+    {
+      "width": 470,
+      "scrollWidth": 470,
+      "clientWidth": 470,
+      "horizontalOverflow": false,
+      "overflowing": [],
+      "imageFailures": [],
+      "headingCount": 1,
+      "missingAnchors": [],
+      "externalLinkCount": 5,
+      "videoSources": [
+        "http://127.0.0.1:4173/assets/video/rehearsal.mp4",
+        "http://127.0.0.1:4173/assets/video/light-run.mp4"
+      ]
+    },
+    {
+      "width": 768,
+      "scrollWidth": 768,
+      "clientWidth": 768,
+      "horizontalOverflow": false,
+      "overflowing": [],
+      "imageFailures": [],
+      "headingCount": 1,
+      "missingAnchors": [],
+      "externalLinkCount": 5,
+      "videoSources": [
+        "http://127.0.0.1:4173/assets/video/rehearsal.mp4",
+        "http://127.0.0.1:4173/assets/video/light-run.mp4"
+      ]
+    },
+    {
+      "width": 900,
+      "scrollWidth": 900,
+      "clientWidth": 900,
+      "horizontalOverflow": false,
+      "overflowing": [],
+      "imageFailures": [],
+      "headingCount": 1,
+      "missingAnchors": [],
+      "externalLinkCount": 5,
+      "videoSources": [
+        "http://127.0.0.1:4173/assets/video/rehearsal.mp4",
+        "http://127.0.0.1:4173/assets/video/light-run.mp4"
+      ]
+    },
+    {
+      "width": 1024,
+      "scrollWidth": 1024,
+      "clientWidth": 1024,
+      "horizontalOverflow": false,
+      "overflowing": [],
+      "imageFailures": [],
+      "headingCount": 1,
+      "missingAnchors": [],
+      "externalLinkCount": 5,
+      "videoSources": [
+        "http://127.0.0.1:4173/assets/video/rehearsal.mp4",
+        "http://127.0.0.1:4173/assets/video/light-run.mp4"
+      ]
+    },
+    {
+      "width": 1100,
+      "scrollWidth": 1100,
+      "clientWidth": 1100,
+      "horizontalOverflow": false,
+      "overflowing": [],
+      "imageFailures": [],
+      "headingCount": 1,
+      "missingAnchors": [],
+      "externalLinkCount": 5,
+      "videoSources": [
+        "http://127.0.0.1:4173/assets/video/rehearsal.mp4",
+        "http://127.0.0.1:4173/assets/video/light-run.mp4"
+      ]
+    },
+    {
+      "width": 1280,
+      "scrollWidth": 1280,
+      "clientWidth": 1280,
+      "horizontalOverflow": false,
+      "overflowing": [],
+      "imageFailures": [],
+      "headingCount": 1,
+      "missingAnchors": [],
+      "externalLinkCount": 5,
+      "videoSources": [
+        "http://127.0.0.1:4173/assets/video/rehearsal.mp4",
+        "http://127.0.0.1:4173/assets/video/light-run.mp4"
+      ]
+    }
+  ],
+  "resilience": {
+    "scrollWidth": 320,
+    "clientWidth": 320,
+    "horizontalOverflow": false,
+    "paragraphHeight": 4435,
+    "overflowing": [],
+    "internallyOverflowing": []
+  },
+  "interaction": {
+    "states": [
+      {
+        "text": "Настольная лампа — единственный предмет, который остаётся на своём месте во всех восьми сценах.",
+        "counter": "01/06"
+      },
+      {
+        "text": "Металлическая рама появилась вместо разметки на полу после четвёртой репетиции и сразу стала частью действия.",
+        "counter": "02/06"
+      },
+      {
+        "text": "После найденного письма актёры выдерживают семнадцать секунд тишины — это самая длинная пауза спектакля.",
+        "counter": "03/06"
+      },
+      {
+        "text": "Шум моря собран из шелеста бумаги, движения щётки по ткани и низкого звука старого вентилятора.",
+        "counter": "04/06"
+      },
+      {
+        "text": "В середине спектакля герои незаметно меняются плащами: так память одного впервые становится памятью другого.",
+        "counter": "05/06"
+      },
+      {
+        "text": "На премьере в зале стояло сорок два стула, а настольная лампа продолжала гореть после ухода последнего зрителя.",
+        "counter": "06/06"
+      },
+      {
+        "text": "Настольная лампа — единственный предмет, который остаётся на своём месте во всех восьми сценах.",
+        "counter": "01/06"
+      }
+    ],
+    "uniqueNotes": 6,
+    "returnedToFirst": true,
+    "liveRegion": "polite",
+    "buttonTag": "BUTTON"
+  },
+  "mediaCheck": [
+    {
+      "readyState": 4,
+      "duration": 34,
+      "error": null,
+      "controls": true,
+      "autoplay": false
+    },
+    {
+      "readyState": 4,
+      "duration": 34,
+      "error": null,
+      "controls": true,
+      "autoplay": false
+    }
+  ]
+}
