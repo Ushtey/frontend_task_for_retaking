@@ -12,7 +12,7 @@
 
 ## Опубликованная версия
 
-[Открыть сайт «Свет остаётся»](https://svet-ostaetsya.dusky-duck-0388.chatgpt.site)
+[Открыть сайт «Свет остаётся»](https://svet-ostaetsya.mar-garetpereze829.chatgpt.site)
 
 ## Структура страницы
 
